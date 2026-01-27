@@ -1,5 +1,5 @@
-***Reading PCAP Files*** 
-#
+# ***Reading PCAP Files*** 
+
 How many packets are in the dns.cap file? 38
 <img width="810" height="766" alt="Screenshot 2026-01-27 165210" src="https://github.com/user-attachments/assets/21e76eff-2d97-48c0-b507-5f3a4e57adbb" />
 
@@ -19,8 +19,8 @@ Which A record was present the most? GRIMM.utelsystems.local
 
 
 #
-**DNS Exfil**
-#
+# **DNS Exfil**
+
 How many packets are in this capture? 125
 <img width="657" height="101" alt="Screenshot 2026-01-27 175350" src="https://github.com/user-attachments/assets/73e45941-5684-4379-9cfe-0f30e00c0028" />
 
