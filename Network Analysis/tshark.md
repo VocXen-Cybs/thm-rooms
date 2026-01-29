@@ -53,7 +53,7 @@ What is the string extracted from the DNS queries? MZWGCZ330RUDC427NFZV65BQ0VTWQ
 
       cut -d "." -f1 : cuts the period "." and specifies that we only want to keep only the first field from the split.
 
-#What is the flag?
+# What is the flag?
 TO GET THE FLAG:
 <img width="1053" height="96" alt="3" src="https://github.com/user-attachments/assets/9ec4a360-a81d-4657-9802-143d4d226361" />
 
